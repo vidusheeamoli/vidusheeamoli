@@ -8,10 +8,6 @@ After working at Homebrew this summer as a part of the Google Summer of Code pro
 Apart from academics and writing code, I like to spend my time learning French, browsing r/eyebleach, and playing with my precious pupper, [Poe](https://pbs.twimg.com/media/Eg56sZzUcAAkzm6?format=jpg&name=large). 🐶
 
 📫 Feel free to connect with me via [Twitter](https://twitter.com/vidusheeamoli)!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidusheeamoli&color=ff69b4" alt="vidushee" /> </p>
-
-
 <!--
 **vidusheeamoli/vidusheeamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
