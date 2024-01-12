@@ -1,13 +1,12 @@
-## Hello 👋🏽 👩🏽‍💻
+## Hello!
 
-I am Vidushee Amoli (she/her), a senior Computer Science undergrad who is passionate about OSS, creating technology to elevate under-represented people, web development, data structures and algorithms.
-I value diversity and inclusion. ✨
+👋🏽 I'm Vidushee, a passionate and result-driven software engineer currently pursuing my graduate studies in computer science at the **University of California, Irvine**. I thrive on solving complex engineering problems and leveraging technology to drive innovation.
 
-I am currently working as a Software Engineering Intern at HackerRank and an open source maintainer at Homebrew, where I was a part of the Google Summer of Code program.
+👩🏽‍💻 Prior to joining UCI, I worked at **Grab** as a full-time software engineer for 2 years. Before that, I interned at **HackerRank** (2021) and **Clarisights** (2019) and also took part in the **Google SoC** programme in 2020 with Homebrew, where I later joined the team as an open-source maintainer.
 
-Apart from academics and writing code, I like to spend my time learning French, browsing r/eyebleach, and playing with my precious pupper, [Poe](https://pbs.twimg.com/media/Eg56sZzUcAAkzm6?format=jpg&name=large). 🐶
+💼 Currently, I'm seeking software engineering internship opportunities for Summer 2024 that allow me to apply and expand my technical skills, innovate, and make a positive impact! My dedication to diversity and inclusion drives me to contribute to workplaces that foster creativity and innovation.
 
-📫 Feel free to connect with me via [Twitter](https://twitter.com/vidusheeamoli)!
+📧 Feel free to connect with me at vamoli@uci.edu. Let's explore opportunities and collaborate on exciting projects together!
 <!--
 **vidusheeamoli/vidusheeamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
